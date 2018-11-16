@@ -30,6 +30,6 @@ geocodeAddress('19146').then((coord) => {
     console.log('HELLO');
 }, (errorMessage) => {
     console.log(errorMessage);
-    console.log('FUCK');
+    console.log('butterfly');
     
 });
